@@ -16,7 +16,7 @@
 3. Pour desired amount of water into bowl
 4. Stir for 30 seconds
 5. Let sit for 60 seconds
-6. Enjoy!
+6. Enjoy
 
 
 
@@ -24,4 +24,4 @@
 
 
 
-### Codemates #
+### Codemates1
