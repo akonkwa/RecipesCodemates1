@@ -30,7 +30,7 @@ Toaster
 
 
 ### Notes:
-Strongly recommend including a hot sauce, such as Cholula, Tobasco or Tapatio
+Strongly recommend including a hot sauce, such as Cholula, Tabasco or Tapatio
 
 
 ### Codemates 1
