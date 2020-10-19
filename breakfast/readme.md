@@ -1,4 +1,4 @@
-# World's best Instant Oatmeal
+# Instant Oatmeal
 
 ## Servings: 1
 
