@@ -21,7 +21,7 @@
 
 
 ### Notes: 
+Can be improved by adding sliced fruit as well!
 
 
-
-### Codemates #
+### Codemates 1
