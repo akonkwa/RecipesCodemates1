@@ -4,7 +4,7 @@
 
 ## Time to prepare: 4 minutes
 
-## Ingredients: instant oatmeal packets, water
+## Ingredients: instant oatmeal packets, water, some fruits
 
 
 ## Equipment needed: bowl, spoon, kettle
@@ -21,7 +21,7 @@
 
 
 ### Notes: 
+Serving some fruits as an option would be nice!
 
 
-
-### Codemates #
+### Codemates #1
