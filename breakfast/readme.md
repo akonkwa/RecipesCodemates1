@@ -1,10 +1,10 @@
-# Instant Oatmeal
+# World's best Instant Oatmeal
 
 ## Servings: 1
 
 ## Time to prepare: 4 minutes
 
-## Ingredients: instant oatmeal packets, water
+## Ingredients: instant oatmeal packets, water, some fruits
 
 
 ## Equipment needed: bowl, spoon, kettle
@@ -21,7 +21,8 @@
 
 
 ### Notes: 
+Serving some fruits as an option would be nice!
 
 
-
-### Codemates1
+### Codemate: 
+Codemates1
