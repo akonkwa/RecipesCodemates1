@@ -42,7 +42,7 @@ Pat the chicken dry with paper towels and place in a bowl. Season with salt and 
 5. Finish the chicken & bok choy
 Reduce the heat to medium-high. To the pan, add the cooked bok choy, white bottoms of the scallions, soy glaze, remaining vinegar, sesame oil, half the sesame seeds, ¼ cup of water and as much of the red pepper flakes as you’d like, depending on how spicy you’d like the dish to be. Cook, stirring occasionally, 2 to 3 minutes, or until well combined and the chicken and bok choy are thoroughly coated. Remove from heat; season with salt and pepper to taste
 
-6. Plate your dish 
+6. Plate your dish and garnish with coriander 
 
 
 ### Notes:
