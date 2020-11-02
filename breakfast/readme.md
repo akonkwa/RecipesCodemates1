@@ -2,7 +2,7 @@
 
 ## Servings: 2
 
-## Time to prepare: 4 minutes
+## Time to prepare: 6 minutes
 
 ## Ingredients: instant oatmeal packets, water, some fruits
 
