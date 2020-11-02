@@ -23,8 +23,8 @@ Pan, Spatula, Stove, Brains
 
 
 ### Notes:
-Ta-daaaa
--Strongly suggest serving with parmesan cheese! 
+Ta-daaaa! 
+- Strongly suggest serving with parmesan cheese! 
 - Great recipe for 2
 - Let's serve with some water
 
