@@ -21,7 +21,7 @@
 
 
 ### Notes: 
-Serving some fruits as an option would be nice!
+Serving some fruits as an option would be nice! Also, with a smile :)
 
 
 ### Codemate: 
