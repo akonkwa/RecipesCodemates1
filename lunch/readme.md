@@ -7,7 +7,7 @@
 30 mins
 
 ## Ingredients: 
-Tortellini , Pesto , Sun-dried tomatoes , Roasted pine nuts 
+Tortellini , Pesto , Sun-dried tomatoes , Roasted pine nuts, Olive oil 
 
 
 ## Equipment needed: 
