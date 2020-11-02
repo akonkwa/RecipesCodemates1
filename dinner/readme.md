@@ -46,7 +46,7 @@ Reduce the heat to medium-high. To the pan, add the cooked bok choy, white botto
 
 
 ### Notes:
-:D 
+Let's serve with some water!!
 
 ### Codemates #
 Team 1
