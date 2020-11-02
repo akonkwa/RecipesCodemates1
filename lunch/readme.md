@@ -26,6 +26,7 @@ Pan, Spatula, Stove, Brains
 Ta-daaaa
 -Strongly suggest serving with parmesan cheese! 
 - Great recipe for 2
+- Let's serve with some water
 
 
 ### Codemates #
