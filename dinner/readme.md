@@ -46,7 +46,9 @@ Reduce the heat to medium-high. To the pan, add the cooked bok choy, white botto
 
 
 ### Notes:
-:D 
+
+Let's serve with some water!!
+Can also marinate the chicken for at least a half hour before cooking 
 
 ### Codemates #
 Team 1
