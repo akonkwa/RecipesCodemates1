@@ -1,7 +1,7 @@
 # Pesto Tortellini Pasta Salad
 
 ## Servings: 
-2 regular humans
+2 regular human servings
 
 ## Time to prepare: 
 30 mins
@@ -24,7 +24,8 @@ Pan, Spatula, Stove, Brains
 
 ### Notes:
 Ta-daaaa
-Really good recipe for 2! 
+-Strongly suggest serving with parmesan cheese! 
+- Great recipe for 2
 
 
 ### Codemates #
