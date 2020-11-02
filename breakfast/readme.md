@@ -1,6 +1,6 @@
 # World's best Instant Oatmeal
 
-## Servings: 1
+## Servings: 2
 
 ## Time to prepare: 4 minutes
 
