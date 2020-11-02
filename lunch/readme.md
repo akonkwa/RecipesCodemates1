@@ -24,6 +24,7 @@ Pan, Spatula, Stove, Brains
 
 ### Notes:
 Ta-daaaa
+Really good recipe for 2! 
 
 
 ### Codemates #
