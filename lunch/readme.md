@@ -1,13 +1,13 @@
 # Pesto Tortellini Pasta Salad
 
 ## Servings: 
-2 regular humans
+2 regular human servings
 
 ## Time to prepare: 
 30 mins
 
 ## Ingredients: 
-Tortellini , Pesto , Sun-dried tomatoes , Roasted pine nuts 
+Tortellini , Pesto , Sun-dried tomatoes , Roasted pine nuts, Olive oil 
 
 
 ## Equipment needed: 
@@ -24,6 +24,9 @@ Pan, Spatula, Stove, Brains
 
 ### Notes:
 Ta-daaaa
+-Strongly suggest serving with parmesan cheese! 
+- Great recipe for 2
+- Let's serve with some water
 
 
 ### Codemates #
