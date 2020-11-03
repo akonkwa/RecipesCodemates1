@@ -11,7 +11,7 @@
 
 
 ## Steps for preparation: 
-1. Heat water
+1. Heat water in a small pot
 2. Empty instant oatmeal packet(s) into bowl
 3. Pour desired amount of water into bowl
 4. Stir for 30 seconds
