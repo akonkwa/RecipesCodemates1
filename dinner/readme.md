@@ -17,6 +17,7 @@
 2 Tbsps Sesame Oil
 1 tsp Black & White Sesame Seeds
 ¼ tsp Crushed Red Pepper Flakes
+Special ingredient- Love 
 
 ## Equipment needed:
 
