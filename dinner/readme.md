@@ -8,7 +8,7 @@
 
 10 oz Chopped Chicken Breast
 ½ cup Jasmine Rice
-2 cloves Garlic
+2 Cloves Garlic
 2 Scallions
 ½ lb Bok Choy
 3 Tbsps Cornstarch
