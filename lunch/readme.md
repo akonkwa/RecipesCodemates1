@@ -25,8 +25,9 @@ Pan, Spatula, Stove, Brains
 ### Notes:
 Ta-daaaa! 
 - Strongly suggest serving with parmesan cheese! 
-- Great recipe for 2
+- Great recipe for 2 adults
 - Let's serve with some water
+- For those who like you can add some burrata 
 
 
 ### Codemates #
